@@ -1,4 +1,5 @@
 Technologies used:
+
 -Spring Boot
 -Postgres
 -Spring Security for role based authorization("admin","user" roles)
@@ -20,12 +21,15 @@ Application will be started on 8082
 
 
 USERS
+
 Created 3 in-memory users to save the time
+
 i] username:admin , password:admin ,role="admin"
 ii] username:user , password:user , role="user"
 iii] username:user2 , password:user2 ,role="user"
 
 Admin APIs
+
 1]Get all grocery items
 method=get
 url="/api/admin/items"
