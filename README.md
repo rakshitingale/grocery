@@ -5,6 +5,7 @@ Technologies used:
 -JPA for database interactions
 
 How to Start:
+
 1]The easy way to start the application is to run it in the docker container.
 Run the following commands inside the "docker" folder I have added
 You don't need to do anything.Just Build and start the container.The database is installed within the container.
