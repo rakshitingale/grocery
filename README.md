@@ -4,7 +4,7 @@ Technologies used:
 
 -Spring Boot
 -Postgres
--Spring Security for role based authorization("admin","user" roles)
+-Spring Security for role based Basic authorization("admin","user" roles).Send Basic auth request.
 -JPA for database interactions
 
 How to Start:
